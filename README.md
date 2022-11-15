@@ -1,7 +1,7 @@
 # Blockstock
 
 **Current Milestone**
-- 1.1.0 Vendor Program MVP
+- 1.1.1 Vendor Program QOL Improvements
 
 ## Feature requests
 
