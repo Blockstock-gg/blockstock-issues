@@ -1,7 +1,7 @@
 # Blockstock
 
 **Current Milestone**
-- 1.1.1 Vendor Program QOL Improvements
+- [1.1.1 Vendor Program QOL Improvements](https://github.com/Blockstock-gg/blockstock-issues/milestone/1)
 
 ## Feature requests
 
