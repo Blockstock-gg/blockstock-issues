@@ -1,7 +1,7 @@
 # Blockstock
 
 **Current Milestone**
-- [1.2 Bundles](https://github.com/Blockstock-gg/blockstock-issues/milestone/2)
+- [1.2 Bundles](https://github.com/Blockstock-gg/blockstock-issues/milestone/3)
 
 ## Feature requests
 
